@@ -139,12 +139,6 @@
             "link": "https://projects.spring.io/spring-framework/"
         },
 		{
-            "title": "Pair programming",
-            "area": "techniques",
-            "status": "assess",
-            "link": ""
-        },
-		{
             "title": "Continuous Integration",
             "area": "techniques",
             "status": "adopt",
