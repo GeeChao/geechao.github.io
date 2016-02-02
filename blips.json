@@ -173,6 +173,30 @@
             "area": "platforms",
             "status": "adopt",
             "link": ""
+        },
+		{
+            "title": "Swagger",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://swagger.io/"
+        },
+		{
+            "title": "Hibernate",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://hibernate.org/"
+        },
+		{
+            "title": "Spring",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "https://projects.spring.io/spring-framework/"
+        },
+		{
+            "title": "Citrus",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://www.citrusframework.org/"
         }
     ]
 }
