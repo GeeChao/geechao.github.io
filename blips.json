@@ -161,7 +161,6 @@
             "area": "tools",
             "status": "adopt",
             "link": "http://nodejs.org/"
-        },
-		
+        }
     ]
 }
