@@ -32,7 +32,7 @@
         },
 		{
             "title": "Selenium WebDriver",
-            "area": "tools",
+            "area": "frameworks",
             "status": "adopt",
             "link": "http://www.seleniumhq.org/projects/webdriver/"
         },
