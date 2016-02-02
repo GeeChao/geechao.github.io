@@ -13,7 +13,7 @@
             "link": "http://extentreports.relevantcodes.com"
         },
         {
-            "title": "Java JVM",
+            "title": "Java",
             "area": "platforms",
             "status": "adopt",
             "link": ""
@@ -91,8 +91,8 @@
             "link": "https://www.rallydev.com/"
         },
 		{
-            "title": "Groovy JVM",
-            "area": "platforms",
+            "title": "Groovy",
+            "area": "tools",
             "status": "adopt",
             "link": "http://www.groovy-lang.org/"
         },
@@ -158,9 +158,27 @@
         },
 		{
             "title": "Node",
-            "area": "tools",
+            "area": "platforms",
             "status": "adopt",
             "link": "http://nodejs.org/"
+        },
+		{
+            "title": "Scrum",
+            "area": "techniques",
+            "status": "adopt",
+            "link": ""
+        },
+		{
+            "title": "Kanban wall",
+            "area": "techniques",
+            "status": "adopt",
+            "link": ""
+        },
+		{
+            "title": "VBScript",
+            "area": "platforms",
+            "status": "adopt",
+            "link": ""
         }
     ]
 }
