@@ -92,7 +92,7 @@
         },
 		{
             "title": "Groovy JVM",
-            "area": "tools",
+            "area": "platforms",
             "status": "adopt",
             "link": "http://www.groovy-lang.org/"
         },
