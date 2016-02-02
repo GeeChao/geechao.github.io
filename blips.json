@@ -1,0 +1,167 @@
+{ "blips":
+    [
+        {
+            "title": "Selenium IDE",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://www.seleniumhq.org/projects/ide/"
+        },
+        {
+            "title": "ExtentReports",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://extentreports.relevantcodes.com"
+        },
+        {
+            "title": "Java JVM",
+            "area": "platforms",
+            "status": "adopt",
+            "link": ""
+        },
+		{
+            "title": "TestNG",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://testng.org/doc/index.html"
+        },
+		{
+            "title": "Maven",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://maven.apache.org/"
+        },
+		{
+            "title": "Selenium WebDriver",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://www.seleniumhq.org/projects/webdriver/"
+        },
+		{
+            "title": "Serenity BDD (Thucydides)",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://www.thucydides.info/"
+        },
+		{
+            "title": "Cucumber-JVM",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "https://cucumber.io/"
+        },
+		{
+            "title": "JUnit",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://junit.org/"
+        },
+		{
+            "title": "HP UFT",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://www8.hp.com/au/en/software-solutions/unified-functional-automated-testing/"
+        },
+		{
+            "title": "HP LoadRunner",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://www8.hp.com/au/en/software-solutions/loadrunner-load-testing/"
+        },
+		{
+            "title": "Eclipse IDE",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://eclipse.org/"
+        },
+		{
+            "title": "IntelliJ IDEA",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://www.jetbrains.com/idea/"
+        },
+		{
+            "title": "SoapUI",
+            "area": "tools",
+            "status": "assess",
+            "link": "https://www.soapui.org/"
+        },
+		{
+            "title": "Rally",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://www.rallydev.com/"
+        },
+		{
+            "title": "Groovy JVM",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://www.groovy-lang.org/"
+        },
+		{
+            "title": "GEB",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://www.gebish.org/"
+        },
+		{
+            "title": "SPOCK",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "https://code.google.com/archive/p/spock/"
+        },
+		{
+            "title": "DBVisualizer",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://www.dbvis.com/"
+        },
+		{
+            "title": "Subversion",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://subversion.apache.org/"
+        },
+		{
+            "title": "Git",
+            "area": "tools",
+            "status": "assess",
+            "link": "https://git-scm.com/"
+        },
+		{
+            "title": "Pair Programming",
+            "area": "techniques",
+            "status": "assess",
+            "link": ""
+        },
+		{
+            "title": "Dependency Injection",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "https://projects.spring.io/spring-framework/"
+        },
+		{
+            "title": "Pair programming",
+            "area": "techniques",
+            "status": "assess",
+            "link": ""
+        },
+		{
+            "title": "Continuous Integration",
+            "area": "techniques",
+            "status": "adopt",
+            "link": ""
+        },
+		{
+            "title": "Jenkins",
+            "area": "tools",
+            "status": "adopt",
+            "link": "https://jenkins-ci.org/"
+        },
+		{
+            "title": "Node",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://nodejs.org/"
+        },
+		
+    ]
+}
