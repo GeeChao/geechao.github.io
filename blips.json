@@ -183,14 +183,20 @@
 		{
             "title": "Hibernate",
             "area": "frameworks",
-            "status": "assess",
+            "status": "adopt",
             "link": "http://hibernate.org/"
         },
 		{
             "title": "Spring",
             "area": "frameworks",
-            "status": "assess",
+            "status": "adopt",
             "link": "https://projects.spring.io/spring-framework/"
+        },
+		{
+            "title": "Lombok",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "https://projectlombok.org/download.html"
         },
 		{
             "title": "Citrus",
@@ -209,6 +215,12 @@
             "area": "tools",
             "status": "assess",
             "link": "http://www-01.ibm.com/support/knowledgecenter/SSBLQQ_8.5.0/com.ibm.rational.rit.ref.doc/topics/c_ritref_rit_reference_guide.html"
+        },
+		{
+            "title": "ReportNG",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://reportng.uncommons.org/"
         }
     ]
 }
